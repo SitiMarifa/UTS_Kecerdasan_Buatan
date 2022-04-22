@@ -1,5 +1,5 @@
-#Nama : Fahmi Rasyied
-#NIM : 191011400421
+#Nama : Siti Ma'rifah
+#NIM : 181011402097
 #LOOPING
 
 #Ini Contoh Looping di Python secara umum dari list array
